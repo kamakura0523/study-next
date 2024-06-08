@@ -10,6 +10,7 @@ export default function Home() {
         <ul>
           <li>
             <Link href="../products">スマートフォン</Link>
+            <p>aaaa</p>
           </li>
         </ul>
       </div>
